@@ -1,2 +1,24 @@
 
 .DS_Store
+data/.keep
+data/csv/olist_customers_dataset.csv
+data/csv/olist_geolocation_dataset.csv
+data/csv/olist_order_items_dataset.csv
+data/csv/olist_order_payments_dataset.csv
+data/csv/olist_order_reviews_dataset.csv
+data/csv/olist_orders_dataset.csv
+data/csv/olist_products_dataset.csv
+data/csv/olist_sellers_dataset.csv
+data/csv/product_category_name_translation.csv
+olist/.ipynb_checkpoints/data-checkpoint.py
+olist/__init__.py
+olist/__pycache__/__init__.cpython-310.pyc
+olist/__pycache__/data.cpython-310.pyc
+olist/__pycache__/order.cpython-310.pyc
+olist/__pycache__/product.cpython-310.pyc
+olist/__pycache__/seller.cpython-310.pyc
+olist/__pycache__/utils.cpython-310.pyc
+olist/data copy.py
+olist/order copy.py
+olist/product_updated.py
+olist/seller_updated.py
